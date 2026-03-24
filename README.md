@@ -1,3 +1,17 @@
+**Este repositório contém a resolução de 10 exercícios focados em fundamentos de memória, escopo, mutabilidade e controle de fluxo cooperativo, organizados em 4 módulos.**
+
+**Equipe**
+
+[Sofia Tiengo Rovaron] - Responsável pelo Módulo 2.
+
+[Rodrigo Gabriel de Araujo Durigan] - Módulo 1.
+
+[Heloísa Bragatto Beraldo] - Módulo 3.
+
+[Anna Heloisy Raymundo Nicolau] - Módulo 4.
+
+
+
 **Modulo 1**
 
 1
