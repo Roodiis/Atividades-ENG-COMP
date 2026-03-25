@@ -33,7 +33,9 @@ int main() {
     printf("#################################\n");
 
     return 0;
-// O codigo e bagunncado porque seria necessario repetir a formula varias vezes caso houvesse mais pessoas, caso aja alteração nos valores teria que alterar um por um, o que no futuro poderia causar um codigo espaguete
+// O codigo e baguncado porque seria necessario repetir a formula 
+//varias vezes caso houvesse mais pessoas, caso aja alteração nos valores 
+//teria que alterar um por um, o que no futuro poderia causar um codigo espaguete
 }
 
 Organizado:
